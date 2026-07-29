@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://yukon-smithsonian-told-simpson.trycloudflare.com/vnc.html
+URL       : https://magnet-not-available-refrigerator.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-29 16:18:21
+Created   : 2026-07-29 20:45:05
 =======================================================
