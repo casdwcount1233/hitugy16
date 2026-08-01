@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sons-finite-simultaneously-discipline.trycloudflare.com/vnc.html
+URL       : https://site-arctic-collective-washer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 20:54:23
+Created   : 2026-08-01 01:48:33
 =======================================================
