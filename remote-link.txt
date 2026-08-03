@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://onto-draw-clothing-volumes.trycloudflare.com/vnc.html
+URL       : https://newspaper-california-demands-california.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-03 17:06:22
+Created   : 2026-08-03 20:55:46
 =======================================================
