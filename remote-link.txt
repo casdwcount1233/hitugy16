@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://plains-produced-luck-rug.trycloudflare.com/vnc.html
+URL       : https://warrant-ids-aimed-tutorial.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 11:53:36
+Created   : 2026-08-05 20:58:36
 =======================================================
