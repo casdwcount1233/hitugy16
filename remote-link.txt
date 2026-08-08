@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://murphy-compare-staffing-bobby.trycloudflare.com/vnc.html
+URL       : https://kate-dsl-transactions-compliance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 20:30:19
+Created   : 2026-08-08 05:36:43
 =======================================================
