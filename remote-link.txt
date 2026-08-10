@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://semiconductor-specials-personalized-hostel.trycloudflare.com/vnc.html
+URL       : https://cir-titled-developmental-shirt.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-10 00:54:31
+Created   : 2026-08-10 06:08:33
 =======================================================
