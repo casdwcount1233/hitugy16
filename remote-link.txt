@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://striking-rank-principles-drawing.trycloudflare.com/vnc.html
+URL       : https://indie-refused-guy-working.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-14 20:23:28
+Created   : 2026-08-15 00:37:15
 =======================================================
