@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://still-printing-promises-interval.trycloudflare.com/vnc.html
+URL       : https://pin-birds-trees-blue.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 20:16:39
+Created   : 2026-08-18 00:36:58
 =======================================================
